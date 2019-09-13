@@ -1,0 +1,33 @@
+{
+  "name": "dailyNeeds",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "immutability-helper": "^2.9.0",
+    "moment": "^2.22.2",
+    "native-base": "^2.13.7",
+    "prop-types": "^15.7.2",
+    "react": "16.8.3",
+    "react-lifecycles-compat": "^3.0.4",
+    "react-native": "^0.60.5",
+    "react-native-charts-wrapper": "^0.5.5",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-mp-android-chart": "^0.2.0",
+    "react-navigation": "^3.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.3",
+    "@babel/runtime": "7.4.3",
+    "babel-jest": "24.7.1",
+    "jest": "24.7.1",
+    "metro-react-native-babel-preset": "0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
