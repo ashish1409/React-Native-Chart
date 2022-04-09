@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "immutability-helper": "^2.9.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "native-base": "^2.13.7",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
